@@ -1,4 +1,5 @@
 from httpd 
+#INGINX NOT BE INSTALL 
 run apt-get update -y 
 run apt-get install unzip wget -y 
 run wget https://www.free-css.com/assets/files/free-css-templates/download/page288/fiu.zip
